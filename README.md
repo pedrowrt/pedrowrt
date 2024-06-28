@@ -1,6 +1,6 @@
 ## Hi there   /   Olá! 👋   
 
-- 🔭 I’m currently student on EBAC
+- 🔭 I’m currently a student on EBAC
 - 🌱 I’m currently learning javascript, sql, vue, react and more...
 - 📫 How to reach me: pedrowrt@gmail.com
 - 😄 Pronouns: he/his
